@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An arcade racer that tears up the rule book with innovative twin-stick controls, completely re-imagined driving mechanics and a huge roster of fiercely individual cars and tracks.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core i5-2500K 3.3GHz / AMD FX-8150 3.6GHz or equi… / Rec: Intel Core i5-4460 3.2 GHz / AMD Ryzen 5 1600X 3.6GHz | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: GeForce GTX 550 Ti / Radeon HD 6790 2GB VRAM* / Rec: GeForce GTX 960 / Radeon HD 7950 3GB VRAM* | Metal-capable GPU |
+| **Storage** | Min: 2 GB available space / Rec: 4 GB available space | 2 GB available space |
+| **OS *** | 64 bit Windows 10 / 8 / 7 | 64 bit Windows 10 / 8 / 7 |
+| **Sound Card** | DirectX compatible soundcard | DirectX compatible soundcard |
 
 ---
 
